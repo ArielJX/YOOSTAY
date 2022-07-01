@@ -1,0 +1,93 @@
+@media screen and (max-width: 1200px) {
+  .accommodation-cards {
+    padding: 0 4em;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .header-container {
+    width: 80%;
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    height: auto;
+    gap: 1em;
+    -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+    min-width: 220px;
+    margin: 0 1em;
+    gap: 0;
+  }
+  .overlay {
+    width: 100vw;
+    left: 0;
+    padding: 1em 4em 0 4em;
+  }
+  .options {
+    gap: 0.5em;
+    border-radius: 0;
+  }
+  .accommodation-cards {
+    -ms-grid-columns: (minmax(0, 1fr))[2];
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media screen and (max-width: 680px) {
+  h2 {
+    font-size: 14px;
+  }
+  h3 {
+    font-size: 14px;
+  }
+  span {
+    font-size: 12px;
+  }
+  header {
+    padding: 0;
+  }
+  .header-container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    gap: 1em;
+  }
+  .header-container_text {
+    -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+  }
+  .overlay {
+    width: 100vw;
+  }
+  .overlay h2 {
+    font-size: 1.2em;
+  }
+  .options > h3 {
+    font-size: 0.8em;
+  }
+  .accommodation-cards {
+    -ms-grid-columns: minmax(0, 1fr);
+        grid-template-columns: minmax(0, 1fr);
+    padding: 0 1em;
+  }
+  .accommodation-cards .card {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  .accommodation-cards .card .card-crop {
+    width: 50%;
+  }
+  .accommodation-cards .card .card-info {
+    width: 50%;
+  }
+  .accommodation-cards .card img {
+    margin-bottom: 0;
+  }
+}
+/*# sourceMappingURL=media-query.css.map */

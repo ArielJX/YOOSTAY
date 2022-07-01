@@ -1,0 +1,104 @@
+$small: 680px;
+$medium: 900px;
+$large: 1200px;
+
+
+@media screen and (max-width: $large) {
+  .accommodation-cards {
+    padding: 0 4em;
+  }
+
+}
+
+@media screen and (max-width: $medium) {
+  .header-container {
+    // background-color: #ffffff;
+    width: 80%;
+    align-items: flex-end;
+    height: auto;
+    gap: 1em;
+    flex-basis: 0;
+    min-width: 220px;
+    margin: 0 1em;
+    gap: 0;
+  }
+
+  .overlay {
+    width: 100vw;
+    left: 0;
+    padding: 1em 4em 0 4em;
+  }
+
+  .options {
+    gap: 0.5em;
+    border-radius: 0;
+  }
+
+  .accommodation-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media screen and (max-width: $small) {
+
+  h2 {
+    font-size: 14px;
+  }
+
+  h3 {
+    font-size: 14px;
+  }
+
+  span {
+    font-size: 12px;
+  }
+
+  header {
+    padding: 0;
+  }
+
+  .header-container {
+    flex-direction: column;
+    gap: 1em;
+
+    &_text {
+      flex-basis: 0;
+    }
+  }
+
+
+  .overlay {
+    width: 100vw;
+
+    h2 {
+      font-size: 1.2em;
+    }
+  }
+
+  .options>h3 {
+    font-size: 0.8em;
+  }
+
+  .accommodation-cards {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 0 1em;
+
+    .card {
+      display: flex;
+      flex-direction: row;
+
+      .card-crop {
+        width: 50%;
+      }
+
+      .card-info {
+        width: 50%;
+      }
+
+      img {
+        margin-bottom: 0;
+      }
+
+    }
+  }
+}

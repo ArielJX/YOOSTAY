@@ -1,0 +1,245 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "categoryID": "1",
+      "category": "Hotel",
+      "title": "Copthorne Hotel Auckland City",
+      "descrption": [
+        "Located close to Auckland’s scenic harbour, the Copthorne Hotel is a 4-star property offering spacious guest accommodation and great views over the city and the water. The hotel is within easy walking distance of Queen Street and Auckland CBD (Central Business District).",
+        "The Copthorne Hotel Auckland City has 110 comfortable guest rooms, all of which feature a balcony offering a variety of views. Some of the rooms overlook Waitemata Harbour, whilst others overlook the city skyline and surrounding parklands.",
+        "The hotel has a restaurant and bar which is open daily and serves a good range of international food. Just a short walk away, guests will find many restaurants and shops in the Viaduct Harbour complex.",
+        "The hotel offers limited car parking to its guests (charges apply) and free WiFi throughout.",
+        "The Copthorne Hotel Auckland City is very close to the University of Auckland and the Spark Arena. The popular shopping areas of Parnell and Newmarket are both within easy reach too.",
+        "This is our guests' favourite part of Auckland, according to independent reviews."
+      ],
+      "facilities": [
+        "Parking",
+        "Free WiFi",
+        "Family rooms",
+        "Non-smoking rooms",
+        "24-hours font desk",
+        "Restaurant",
+        "Bar"
+      ],
+      "maxPeople": 2,
+      "price": "$157/night",
+      "minStay": 1,
+      "maxStay": 5,
+      "imgUrl": "/json/hotel1.jpg"
+    },
+    {
+      "id": "2",
+      "categoryID": "1",
+      "category": "Hotel",
+      "title": "Naumi Auckland Airport Hotel",
+      "descrption": [
+        "Naumi Auckland Airport offers luxury accommodation with stylish rooms, surrounded by quiet gardens. A fitness centre and Asian-influenced restaurant are featured.",
+        "The property is designed with contemporary yet bold accents, inspired by New Zealand's native Tui bird. The spacious nests (rooms) at the property boast private patios and each room is equipped with a Smart flat-screen TV with 60 satellite channels and a Netflix channel. Free unlimited WiFi across multiple devices is also featured in the rooms.",
+        "The front desk can help guests with travel arrangements.",
+        "The on-site restaurant features an extensive à la carte menu, featuring Asian fusion cuisine. The bar offers signature cocktails, house beer and a range of snacks. For breakfast included rates, breakfast is only included for adults. Children are charged NZD 15.",
+        "Naumi Auckland Airport is just 3 km from Auckland Airport and Auckland’s CBD is an 18-minute drive away."
+      ],
+      "facilities": [
+        "1 swimming pool",
+        "Free parking",
+        "Free WiFi",
+        "Family rooms",
+        "Non-smoking rooms",
+        "Good fitness centre",
+        "Tea/Coffee maker in all rooms",
+        "Bar"
+      ],
+      "maxPeople": 2,
+      "price": "$157/night",
+      "minStay": 1,
+      "maxStay": 5,
+      "imgUrl": "/json/hotel2.jpg"
+    },
+    {
+      "id": "3",
+      "categoryID": "2",
+      "category": "House",
+      "title": "QV Modern 3 Level Sunny Townhouse (640)",
+      "descrption": [
+        "Offering free WiFi and free private parking, QV Modern 3 Level Sunny Townhouse (640) is located in Auckland, just 1.4 km from Masefield Beach. This apartment is 1.3 km from SKYCITY Auckland Convention Centre and 1.4 km from Aotea Centre.",
+        "The apartment is equipped with 3 bedrooms, 1 bathroom, bed linen, towels, a flat-screen TV, a dining area, a fully equipped kitchen, and a balcony with city views.",
+        "Popular points of interest near the apartment include Hamilton Road Beach, Sentinel Beach and The Civic. The nearest airport is Auckland, 22 km from QV Modern 3 Level Sunny Townhouse (640), and the property offers a paid airport shuttle service."
+      ],
+      "facilities": [
+        "Free parking",
+        "Free WiFi",
+        "Airport Shuttle",
+        "Family rooms",
+        "Non-smoking rooms",
+        "Laundry"
+      ],
+      "maxPeople": 4,
+      "price": "$240/night",
+      "minStay": 2,
+      "maxStay": 15,
+      "imgUrl": "/json/house1.jpg"
+    },
+    {
+      "id": "4",
+      "categoryID": "2",
+      "category": "House",
+      "title": "QV Comfortable Waterfront Apartment - 848",
+      "descrption": [
+        "QV Comfortable Waterfront Apartment - 848 is set in the Britomart district of Auckland, 2.8 km from Devonport Beach, 2.9 km from Masefield Beach and less than 1 km from Sky Tower. This property offers access to a balcony, free private parking and free WiFi.",
+        "The apartment features 2 bedrooms, a flat-screen TV, an equipped kitchen with a dishwasher and a microwave, a washing machine, and 1 bathroom with a shower. Towels and bed linen are featured in this accommodation.",
+        "A terrace is available for guests at the apartment to use.",
+        "Popular points of interest near QV Comfortable Waterfront Apartment - 848 include Auckland Art Gallery, Aotea Centre and SKYCITY Auckland Convention Centre. The nearest airport is Auckland, 22 km from the accommodation, and the property offers a paid airport shuttle service.",
+        "This is our guests' favourite part of Auckland, according to independent reviews."
+      ],
+      "facilities": [
+        "Free parking",
+        "Free WiFi",
+        "Airport Shuttle",
+        "Non-smoking rooms",
+        "Laundry",
+        "Lift"
+      ],
+      "maxPeople": 4,
+      "price": "$240/night",
+      "minStay": 2,
+      "maxStay": 15,
+      "imgUrl": "/json/house2.jpg"
+    },
+    {
+      "id": "5",
+      "categoryID": "3",
+      "category": "Motel",
+      "title": "Auckland Airport Kiwi Motel",
+      "address": "144 McKenzie Road, Mangere, 2150 Auckland, New Zealand",
+      "descrption": [
+        "All rooms include cooking facilities. Guests receive free WiFi per stay and 24 Hours reception.",
+        "Auckland Airport Motel offers fully air-conditioned accommodation with an en suite bathroom and a work desk. Each includes a kitchenette with a microwave, Mini Fridge and kitchenware.",
+        "All accommodation is set in a peaceful, sunny courtyard lawn area at the rear of the property. Filled with native fruit trees, the garden surroundings offer a tranquil escape from the main road.",
+        "Auckland Airport Kiwi Motel is a 20-minute drive from Auckland's city center.",
+        "Auckland Airport Kiwi Motel has been welcoming Booking.com guests since 24 Mar 2011.",
+        "Hotel chain/brand: VR Hotels and Resorts"
+      ],
+      "facilities": [
+        "Free parking",
+        "Free WiFi",
+        "Airport Shuttle (free)",
+        "Family rooms",
+        "Non-smoking rooms",
+        "24-hours font desk",
+        "Bar"
+      ],
+      "minPeople": 2,
+      "maxPeople": 4,
+      "price": "$90/night",
+      "minStay": 3,
+      "maxStay": 10,
+      "imgUrl": "/json/motel1.jpg"
+    },
+    {
+      "id": "6",
+      "categoryID": "3",
+      "category": "Motel",
+      "title": "Dukes Midway Lodge",
+      "address": "4 Vagus Place, Royal Oak, 1023 Auckland, New Zealand",
+      "descrption": [
+        "Located halfway between Auckland Airport and the city centre, Dukes Midway Lodge offers free WiFi access and free parking. Guests can relax by the guitar-shaped swimming pool.",
+        "All rooms at Dukes Midway Auckland include TV, ironing facilities and a private bathroom with a hairdryer. Most rooms have garden or pool views, and include a kitchenette with microwave and fridge.",
+        "Laundry facilities are also available.",
+        "Dukes Midway Lodge is a 15-minute drive from both Auckland International Airport and the city centre. Both Mt Smart Stadium and Eden Park Stadium are within a 10 minutes’ drive away by car.",
+        "Couples particularly like the location — they rated it 8.5 for a two-person trip.",
+        "Dukes Midway Lodge has been welcoming Booking.com guests since 17 Mar 2011."
+      ],
+      "facilities": [
+        "Free parking",
+        "Free WiFi",
+        "Non-smoking rooms",
+        "Room Service",
+        "Laundry"
+      ],
+      "minPeople": 2,
+      "maxPeople": 4,
+      "price": "$90/night",
+      "minStay": 3,
+      "maxStay": 10,
+      "imgUrl": "/json/motel2.jpg"
+    },
+    {
+      "id": "7",
+      "categoryID": "4",
+      "category": "Hostel",
+      "title": "The Attic Backpackers Hostel",
+      "descrption": [
+        "Hostelworld's winner 4 years in a row of most popular Hostel.",
+        "The Attic Backpackers is a clean and modern backpackers haven, located in the heart of Auckland City. Just one street over from the iconic Skytower and a minute walk from the hustle and bustle of Queen street, our location could not be better! We pride ourselves on providing exceptional service and travel advice to our guests as well as maintaining a spotlessly clean and welcoming environment!",
+        "Our top floor hostel features a wonderful, large outdoor covered deck with chill out spots, dining area, and an attached, well-equipped communal kitchen. We offer large and small dorms as well as female only dorms, private single and twin rooms. All linen is provided free.",
+        "Incredibly friendly and helpful, we go the extra mile to make your stay with us that little bit more special. Our guests comfort is the most important thing for us and we pride ourselves on creating a chilled, helpful, and caring hostel environment. Come relax, enjoy, and see for yourself what makes The Attic the best budget accommodation in central Auckland City!",
+        "Plan your NZ adventure right here with us! We can book everything from bungy jumps to skywalks, buses to car and camper van hire, day trips to Waitomo and Hobbiton and much much more! Make sure you check it out during your stay, NO BOOKING FEES or hidden charges, just another way we can help you out!",
+        "Please notify us via email before your stay if you will be arriving before 8am or after 10pm as this may be outside reception hours, this will not affect your booking however we will need to leave you room instructions.",
+        "Please note there is 4% credit card fee on all credit or foreign cards",
+        "Photo ID required. Either NZ Driving license or International passport ONLY",
+        "Guests aged 10+ accepted. Guests aged 10-18 must reserve/reside in private dormitories or private rooms (Double, Twin). Guests aged 10-18 will not be permitted to share dormitories with persons other than the members of their booking party. Guests aged 10-18 must be accompanied by a responsible adult (Aged 25+) at all times.",
+        "Please note alcohol purchased off-site is allowed to be consumed on site. Please consume responsibly, follow the House rules or the requirements of Attic Team Members when prompted."
+      ],
+      "facilities": [
+        "Free parking",
+        "Free WiFi",
+        "Non-smoking rooms",
+        "Room Service",
+        "Laundry"
+      ],
+      "maxPeople": 1,
+      "price": "$30/night",
+      "minStay": 1,
+      "maxStay": 10,
+      "imgUrl": "/json/hostel1.jpg"
+    },
+    {
+      "id": "8",
+      "categoryID": "4",
+      "category": "Hostel",
+      "title": "Kiwi Internatioanal Hostel",
+      "descrption": [
+        "Our hotel is centrally located through Auckland's iconic Queen Street. We are a 122 room tourist hotel, that caters to budget conscious travelers looking to stay in the heart of Auckland City without the hefty price tag. Our accommodation is clean, comfortable and affordable and we welcome you to stay with us the next time you are in Auckland. With both budget economy wing rooms (shared bathrooms) for the very best price and standard hotel rooms for those looking for more comfort, the Kiwi International Hotel is your best choice.",
+        "Guests must provide valid photo identification",
+        "$100 refundable deposit",
+        "Reception is available 24 hours.",
+        "Check in is available after 2pm and please check out before 10am."
+      ],
+      "facilities": [
+        "Free parking",
+        "Free WiFi",
+        "Non-smoking rooms",
+        "Room Service",
+        "Laundry"
+      ],
+      "maxPeople": 1,
+      "price": "$30/night",
+      "minStay": 1,
+      "maxStay": 10,
+      "imgUrl": "/json/hostel2.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Hotel",
+      "description": " cards about hotel property"
+    },
+    {
+      "id": 2,
+      "name": "House",
+      "description": " cards about house property"
+    },
+    {
+      "id": 3,
+      "name": "Motel",
+      "description": " cards about motel property"
+    },
+    {
+      "id": 4,
+      "name": "Hostel",
+      "description": " cards about hostel property"
+    }
+  ]
+}
